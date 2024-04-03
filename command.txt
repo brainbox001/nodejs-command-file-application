@@ -1,0 +1,2 @@
+add to the file main.txt- 
+This new content
